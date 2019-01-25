@@ -1,0 +1,30 @@
+﻿  Arkanoid -2.cpp
+Arkanoid -2.cpp(67): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+Arkanoid -2.cpp(81): warning C4305: "argument": obcięcie z "double" do "float"
+Arkanoid -2.cpp(175): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+Arkanoid -2.cpp(190): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Blocks.cpp(25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Blocks.cpp(17): note: podczas kompilowania funkcji członkowskiej „<Nieznany>” klasy klasa <Nieznany>
+  Arkanoid -2.cpp(125): note: zobacz odwołanie do funkcji szablon; wystąpienie „void Blocks<160>::creating_of_blocks(sf::Texture &)” jest kompilowane
+  Arkanoid -2.cpp(90): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „Blocks<160>” jest kompilowane
+c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Lines.cpp(19): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Lines.cpp(6): note: podczas kompilowania funkcji członkowskiej „<Nieznany>” klasy klasa <Nieznany>
+  Arkanoid -2.cpp(93): note: zobacz odwołanie do funkcji szablon; wystąpienie „Lines<160>::Lines(void)” jest kompilowane
+  Arkanoid -2.cpp(93): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „Lines<160>” jest kompilowane
+c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Lines.cpp(20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Lines.cpp(21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\lenovo\source\repos\arkanoid -2\arkanoid -2\Lines.cpp(22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Ball.cpp
+  Blocks.cpp
+  Counter.cpp
+  Lines.cpp
+  Menu.cpp
+Menu.cpp(19): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+Menu.cpp(40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+Menu.cpp(89): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Movement.cpp
+  Paddle.cpp
+  Trwa generowanie kodu
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Arkanoid -2.vcxproj -> C:\Users\Lenovo\source\repos\Arkanoid -2\Release\Arkanoid -2.exe
