@@ -1,0 +1,7 @@
+The player controls a small rectangle called "paddle" which prevents a ball 
+from falling from the playing field. The field is open only from one side 
+so after exceeding available field there is game over. 
+The ball can bounce against 3 others sides of field and against blocks.
+After collision with a block, the block disappers.To control the paddle press A 
+to move the left or D to move the right 
+The goal of the game is to smash all the blocks on the playing field.
